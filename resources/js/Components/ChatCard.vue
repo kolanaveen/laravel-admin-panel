@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { ref } from 'vue'
-import { RouterLink } from 'vue-router'
 import {Link} from "@inertiajs/vue3";
 
 import UserOne from '@/assets/images/user/user-01.png'
